@@ -1,0 +1,100 @@
+/*
+Color styles
+----------------------------------------*/
+a,
+.logo-text,
+.navbar-nav .active a,
+nav.main-navigation ul li ul.sub-menu li a:hover,
+.slide-sub-title,
+.why-chose .biz-block i,
+#testimonial #testimonial-carousel h5 i,
+#testimonial .item blockquote small,
+.scroll-top,
+#slide .carousel-control i,
+.navbar-nav li a:hover,
+.blog-news .blog-item .up-content ul li a,
+.footer-section-mid .footer-mid .footer-widget ul li a:hover,
+.price-list .price-block .price .price-base,
+#side-bar .recent-tweets .recent-item a,
+.widget-tagcloud a span,
+#side-bar .latest-posts .latest-item ul li i,
+.blog-page .blog-item .down-content ul li a,
+.blog-page .blog-item-video .video-content .inner-content .tittle ul li a,
+.blog-page .blog-item-video .video-content .inner-content i:hover,
+.pagination .page-numbers ul li a,
+.single-blog .blog-item .down-content ul li a,
+.single-blog .comments .comment-item .reply-button a,
+.contact-detail li p i{
+	color: #FF3B30;
+}
+.logo-text samp,
+.btn-theme,
+.btn-theme:focus,
+.process,
+.bg-color,
+.section-header span.line,
+.blog-box-icon,
+.purchase-now,
+.footer-section-mid .footer-mid .footer-widget span.line,
+#slide .carousel-indicators li.active,
+#slide .carousel-indicators li:hover,
+.clients-section .owl-pagination .owl-page.active span,
+.meet-team .team-member .hover-content ul li a:hover,
+.services-section .item .fa,
+.price-list .price-block .top,
+#side-bar .search-box .simple-button a,
+#side-bar .recent-tweets .recent-item i,
+.widget-tagcloud a:hover,
+.item-filter > ul > li.active > a,
+.item-filter > ul > li > a:hover,
+.item-filter > ul > li > a:focus,
+.themes-inner .content-group i,
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus,
+.pagination .prev a,
+.pagination .next a,
+.single-blog .blog-item blockquote em{
+	background: #FF3B30;
+	background-color: #FF3B30;
+}
+.product-header{
+	background: #FF3B30 url("../../images/bg.png") no-repeat scroll center center / cover;
+}
+.section-header span.line::before,
+#testimonial .item blockquote img,
+.clients-section .owl-pagination .owl-page span,
+.footer-section-top .newsletter-widget .btn-theme,
+.meet-team .team-member .hover-content ul li a:hover,
+#side-bar .recent-tweets .recent-item p,
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus,
+.nav-tabs,
+.blog-page .blog-item .down-content .post-info,
+.pagination .prev a,
+.pagination .next a,
+.pagination .page-numbers ul .active a,
+.single-blog .blog-item .down-content .post-info,
+.contact-detail li p i{
+	border-color:#FF3B30;
+}
+.navbar-nav li a.btn:hover,
+.btn-theme:hover,
+#slide .carousel-control i:hover{
+	background: #eb271c
+}
+.btn-theme2{
+	background: #fff;
+}
+.btn-theme2:hover{
+	color: #FF3B30;
+	background: #f1f1f1;
+}
+.check-it .over-bg,
+.hvr-shutter-in-vertical,
+.hvr-shutter-in-vertical:before,
+.hvr-shutter-in-vertical:after,
+.meet-team2 .team-member:hover .team-member-image::after{
+	background-color:rgba(255, 59, 48, 0.8);
+}
